@@ -1,8 +1,8 @@
 {
   "name": "ectro",
   "version": "1.0.0",
-  "description": "",
-  "homepage": "My Portfolo In CLI",
+  "description": "My Portfolo In CLI",
+  "homepage": "https://github.com/Nivin389/Ectro#readme",
   "type": "module",
   "repository": {
     "type": "git",
