@@ -1,0 +1,23 @@
+{
+  "name": "ectro",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "My Portfolo In CLI",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nivin389/Ectro"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
