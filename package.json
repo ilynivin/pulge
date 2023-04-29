@@ -1,9 +1,14 @@
 {
   "name": "pulge",
-  "version": "1.0.0",
-  "description": "My Portfolo In CLI",
+  "version": "1.0.2",
+  "description": "A CLI Portfolio",
   "homepage": "https://github.com/Nivin389/pulge#readme",
   "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "CLI",
+    "Cli-Portfolio"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Nivin389/pulge"
@@ -15,9 +20,10 @@
   "bin": "./index.js",
   "dependencies": {
     "chalk": "^4.1.2",
-    "chalk-animation": "^1.6.0",
+    "chalk-animation": "^2.0.3",
     "figlet": "^1.5.2",
     "gradient-string": "^2.0.0",
     "inquirer": "^8.2.0"
   }
 }
+
